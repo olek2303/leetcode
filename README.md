@@ -31,4 +31,5 @@ This repository contains my solutions to LeetCode problems.
 | 25 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/)                                                | [Java](./src/main/java/dev/karpiuk/DelTwoStr/DelTwoStr.java)                           | MEDIUM     |
 | 26 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)                                                | [Java](./src/main/java/dev/karpiuk/EvenNumDig/EvenNumDig.java)                         | EASY       |
 | 27 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description/)                                                 | [Python](./python/fix_table_names.py)                                                  | EASY       |
+| 28 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/description/)                                                 | [Python](./python/swap_values.py)                                                      | EASY       |
 
